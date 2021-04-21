@@ -10,6 +10,11 @@ title: "[Re] Reproducibility report of Interpretable Complex-Valued Neural Netwo
 # List of authors with name, orcid number, email and affiliation
 # Affiliation "*" means contact author (required even for single-authored papers)
 authors:
+  - name: Arsen Sheverdin
+    orcid: 0000-0002-2033-6674
+    email: arsen.sheverdin@student.uva.nl
+    affiliations: 1,*
+    
   - name: Alko Knijff
     orcid: 0000-0002-3118-3677
     email: alko.knijff@student.uva.nl
@@ -20,11 +25,6 @@ authors:
     email: noud.corten@student.uva.nl
     affiliations: 1
 
-  - name: Arsen Sheverdin
-    orcid: 0000-0002-2033-6674
-    email: arsen.sheverdin@student.uva.nl
-    affiliations: 1,*
-    
   - name: Georg Lange
     orcid: 0000-0002-6972-589X
     email: georg.lange@student.uva.nl
